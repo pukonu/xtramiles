@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://xtramiles.org/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/about</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/about/our-values</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/about/areas-we-cover</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/services</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/services/generix-clean</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/services/generix-care</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/services/generix-care-plus</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/quality-assurance/regulations-and-recruitment</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/quality-assurance/workforce-development</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/quality-assurance/monitoring-and-feedback</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/quality-assurance/partnership</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/contact</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xtramiles.org/quality-assurance</loc>
+  <priority>0.80</priority>
+</url>
+</urlset>
